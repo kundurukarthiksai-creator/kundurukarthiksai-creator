@@ -21,7 +21,7 @@ Public-safe keywords: Java 17, Smithy service contracts, AWS CDK, CloudFormation
 
 ### Agent Reliability and Tool-Use Eval Lab
 
-Deterministic evaluation lab for tool-using AI agents. It runs 38 structured tasks across 8 local tools, asks a planner to choose tools, records traces, scores assertions, renders JSON/HTML reports, saves run history in SQLite, compares planners, and enforces a strict quality gate for regressions. The suite now includes profile README audit coverage, role-readiness auditing, launch-readiness auditing, artifact-consistency auditing, OpenAPI export, public one-pager/case-study/interview walkthrough pages, failure catalogs, saved-run comparison/trend views, and CI verification without API keys.
+Deterministic evaluation lab for tool-using AI agents. It runs 42 structured tasks across 9 local tools, asks a planner to choose tools, records traces, scores assertions, renders JSON/HTML reports, saves run history in SQLite, compares planners, and enforces a strict quality gate for regressions. The suite now includes profile README audit coverage, role-readiness auditing, launch-readiness auditing, artifact-consistency auditing, tool-safety auditing, OpenAPI export, public one-pager/case-study/interview walkthrough pages, failure catalogs, saved-run comparison/trend views, and CI verification without API keys.
 
 Repo: [agent-reliability-tool-use-eval-lab](https://github.com/kundurukarthiksai-creator/agent-reliability-tool-use-eval-lab)
 
