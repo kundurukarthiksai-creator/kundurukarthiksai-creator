@@ -17,7 +17,19 @@ Built a production hosted Model Context Protocol service for internal developer 
 
 Public-safe keywords: Java 17, Smithy service contracts, AWS CDK, CloudFormation, Lambda, CloudWatch, authorization, observability, production operations.
 
-## Portfolio Work
+## Selected Portfolio Work
+
+### AI LinkedIn Post Generator
+
+Preview-first LinkedIn post automation built with Node.js, Express, Gemini/OpenAI, Cloudinary, and Composio tooling. The workflow separates generation, preview, confirmation, and publishing so posts are never published without explicit user confirmation.
+
+Repo: [AI-LinkedIn-Post-Generator](https://github.com/kundurukarthiksai-creator/AI-LinkedIn-Post-Generator)
+
+### OpportUnityHub Smart Opportunity Tracker
+
+FastAPI opportunity tracker that syncs Gmail, scrapes opportunity portals, filters non-opportunity messages, and stores internships, hackathons, and jobs behind authenticated user workflows. This repo is being tightened into a portfolio-grade backend/product system.
+
+Repo: [OpportUnityHub-Smart-Opportunity-Tracker](https://github.com/kundurukarthiksai-creator/OpportUnityHub-Smart-Opportunity-Tracker)
 
 ### Blockchain Supply Chain Provenance
 
@@ -25,15 +37,11 @@ Solidity and Ethereum-based coursework project for supply-chain provenance, usin
 
 Repo: [cse540-smart-contract-project](https://github.com/kundurukarthiksai-creator/cse540-smart-contract-project)
 
-### AI and Developer Tooling Projects
+## Projects Being Polished Next
 
-I am consolidating my strongest public AI/backend projects into this profile, including:
-
-- AI LinkedIn automation assistant with Node.js, Express, OpenAI, Cloudinary, and Composio LinkedIn tooling
-- OpportUnity Hub, a FastAPI opportunity tracker with Gmail sync, authenticated workflows, scrapers, and Supabase/local persistence
-- GitHub Dev Card Generator using FastAPI, GitHub REST API, Gemini analysis, Docker, and browser export
-
-These repositories are being cleaned for reproducible setup, screenshots, smoke tests, and architecture notes before I use them as primary resume links.
+- GitHub Dev Card Generator: FastAPI, GitHub REST API, Gemini analysis, Docker, and browser export. This should be cleaned before becoming a primary profile link.
+- ASU Sol / HPC project: target project direction is AI systems or scalable data/ML work using ASU Research Computing resources.
+- Google-target portfolio project: production-quality AI developer tool with tests, deployment, architecture docs, and measurable outcomes.
 
 ## Tech Stack
 
@@ -49,10 +57,10 @@ Databases: PostgreSQL, Supabase, SQL Server, local persistence
 
 ## What I Am Improving Next
 
-- Migrating the strongest public AI/backend projects into this account
-- Adding reproducible setup, screenshots, smoke tests, and architecture notes to pinned repos
+- Adding screenshots, smoke tests, and architecture notes to portfolio repos
 - Preparing for spring internship applications in SDE, backend, cloud, and AI developer tooling roles
 - Building a stronger project trail around agentic AI, developer tools, and production backend systems
+- Practicing Python DSA consistently for Google-level interview readiness
 
 ## Links
 
