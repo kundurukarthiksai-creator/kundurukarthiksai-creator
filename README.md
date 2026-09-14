@@ -21,7 +21,7 @@ Public-safe keywords: Java 17, Smithy service contracts, AWS CDK, CloudFormation
 
 ### Agent Reliability and Tool-Use Eval Lab
 
-Deterministic evaluation lab for tool-using AI agents. It runs 26 structured tasks across 6 local tools, asks a planner to choose tools, records traces, scores assertions, renders JSON/HTML reports, saves run history in SQLite, compares planners, and enforces a strict quality gate for regressions. The suite now includes profile README audit coverage, role-readiness auditing, OpenAPI export, a public case-study demo, failure catalogs, saved-run comparison/trend views, and CI verification without API keys.
+Deterministic evaluation lab for tool-using AI agents. It runs 30 structured tasks across 7 local tools, asks a planner to choose tools, records traces, scores assertions, renders JSON/HTML reports, saves run history in SQLite, compares planners, and enforces a strict quality gate for regressions. The suite now includes profile README audit coverage, role-readiness auditing, launch-readiness auditing, OpenAPI export, a public case-study demo, failure catalogs, saved-run comparison/trend views, and CI verification without API keys.
 
 Repo: [agent-reliability-tool-use-eval-lab](https://github.com/kundurukarthiksai-creator/agent-reliability-tool-use-eval-lab)
 
@@ -55,7 +55,7 @@ Repo: [GitHub-Dev-Card-Generator](https://github.com/kundurukarthiksai-creator/G
 
 - AI Dev Assistant: technically strong but currently mostly upstream fork history; needs real contributions or careful open-source-contribution framing before promotion.
 - ASU Sol / HPC project: target project direction is AI systems or scalable data/ML work using ASU Research Computing resources.
-- Agent Reliability and Tool-Use Eval Lab: continue expanding realistic eval tasks and optional planner comparisons while keeping the default CI path deterministic.
+- Agent Reliability and Tool-Use Eval Lab: continue expanding realistic eval tasks and public proof checks while keeping the default CI path deterministic.
 
 ## Tech Stack
 
@@ -74,7 +74,7 @@ Databases: PostgreSQL, Supabase, SQL Server, local persistence
 - Adding screenshots, smoke tests, and architecture notes to portfolio repos
 - Preparing for spring internship applications in SDE, backend, cloud, and AI developer tooling roles
 - Building a stronger project trail around agentic AI, developer tools, and production backend systems
-- Expanding the agent evaluation lab with richer role-fit/evidence tasks, optional planner comparisons, and stronger reliability reporting
+- Expanding the agent evaluation lab with richer role-fit, launch-readiness, and reliability evidence tasks
 - Practicing Python DSA consistently for Google-level interview readiness
 
 ## Links
