@@ -33,6 +33,12 @@ Python CLI that audits public GitHub repos for recruiter-facing proof quality. I
 
 Repo: [github-portfolio-proof-auditor](https://github.com/kundurukarthiksai-creator/github-portfolio-proof-auditor)
 
+### MCP Tool Safety Lab
+
+Public-safe MCP-style tool safety lab that demonstrates permission-gated mock tools, human approval boundaries, dry-run behavior, schemas, and audit logs. Current proof includes unit tests, GitHub Actions CI, and an evidence report showing allowed and blocked tool-call scenarios.
+
+Repo: [mcp-tool-safety-lab](https://github.com/kundurukarthiksai-creator/mcp-tool-safety-lab)
+
 ### AI LinkedIn Post Generator
 
 Preview-first LinkedIn post automation built with Node.js, Express, Gemini/OpenAI, Cloudinary, and Composio tooling. The workflow separates generation, preview, confirmation, and publishing so posts are never published without explicit user confirmation.
