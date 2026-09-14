@@ -35,13 +35,13 @@ Repo: [AI-LinkedIn-Post-Generator](https://github.com/kundurukarthiksai-creator/
 
 ### OpportUnityHub Smart Opportunity Tracker
 
-FastAPI opportunity tracker that syncs Gmail, scrapes opportunity portals, filters non-opportunity messages, and stores internships, hackathons, and jobs behind authenticated user workflows. This repo is being tightened into a portfolio-grade backend/product system.
+FastAPI opportunity tracker with authenticated user workflows, local fallback storage, protected opportunity routes, Gmail/scraper integration paths, and internship/job/hackathon tracking views. The verified public path includes backend health, auth, protected-route, stats, and CI smoke checks; configured Gmail/Supabase flows still need deeper environment-backed verification.
 
 Repo: [OpportUnityHub-Smart-Opportunity-Tracker](https://github.com/kundurukarthiksai-creator/OpportUnityHub-Smart-Opportunity-Tracker)
 
 ### Blockchain Supply Chain Provenance
 
-Solidity and Ethereum-based coursework project for supply-chain provenance, using smart contracts to track product lifecycle events, custody transfer, and tamper-resistant history across stakeholders.
+Academic Solidity/Hardhat smart-contract prototype for supply-chain provenance, using one contract to model stakeholder roles, product registration, custody transfer, lifecycle status, and regulator verification. Current proof includes locked dependencies, GitHub Actions compile/test CI, 8 Hardhat tests, and honest limits around missing frontend, IPFS, wallet flow, and public deployment.
 
 Repo: [cse540-smart-contract-project](https://github.com/kundurukarthiksai-creator/cse540-smart-contract-project)
 
