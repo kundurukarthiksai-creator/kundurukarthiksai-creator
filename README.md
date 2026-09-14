@@ -27,6 +27,12 @@ Repo: [agent-reliability-tool-use-eval-lab](https://github.com/kundurukarthiksai
 
 Demo: [Agent Reliability Eval Lab Demo](https://kundurukarthiksai-creator.github.io/agent-reliability-tool-use-eval-lab/)
 
+### GitHub Portfolio Proof Auditor
+
+Python CLI that audits public GitHub repos for recruiter-facing proof quality. It checks README proof signals, repo metadata, GitHub Actions status, homepage health, and conservative public-wording rules, then writes Markdown reports. Current proof includes config-driven repo lists, unit tests, GitHub Actions CI, and a clean audit report across my main public portfolio repos.
+
+Repo: [github-portfolio-proof-auditor](https://github.com/kundurukarthiksai-creator/github-portfolio-proof-auditor)
+
 ### AI LinkedIn Post Generator
 
 Preview-first LinkedIn post automation built with Node.js, Express, Gemini/OpenAI, Cloudinary, and Composio tooling. The workflow separates generation, preview, confirmation, and publishing so posts are never published without explicit user confirmation.
