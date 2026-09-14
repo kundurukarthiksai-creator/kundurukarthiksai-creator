@@ -29,7 +29,7 @@ Demo: [Agent Reliability Eval Lab Demo](https://kundurukarthiksai-creator.github
 
 ### GitHub Portfolio Proof Auditor
 
-Python CLI that audits public GitHub repos for recruiter-facing proof quality. It checks README proof signals, repo metadata, GitHub Actions status, homepage health, and conservative public-wording rules, then writes Markdown and JSON reports. Current proof includes config-driven repo lists, unit tests, GitHub Actions CI, and a clean audit report across my main public portfolio repos.
+Python CLI that audits public GitHub repos for recruiter-facing proof quality. It checks README proof signals, repo metadata, GitHub Actions status, homepage health, optional README link health, and conservative public-wording rules, then writes Markdown and JSON reports. Current proof includes config-driven repo lists, unit tests, GitHub Actions CI, and clean audit reports across my main public portfolio repos.
 
 Repo: [github-portfolio-proof-auditor](https://github.com/kundurukarthiksai-creator/github-portfolio-proof-auditor)
 
