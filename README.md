@@ -19,6 +19,12 @@ Public-safe keywords: Java 17, Smithy service contracts, AWS CDK, CloudFormation
 
 ## Selected Portfolio Work
 
+### Agent Reliability and Tool-Use Eval Lab
+
+Deterministic evaluation lab for tool-using AI agents. It runs structured tasks, asks a planner to choose tools, records traces, scores assertions, renders JSON/HTML reports, saves run history in SQLite, and includes a deliberate failure demo so bad tool selection is visible instead of hidden.
+
+Repo: [agent-reliability-tool-use-eval-lab](https://github.com/kundurukarthiksai-creator/agent-reliability-tool-use-eval-lab)
+
 ### AI LinkedIn Post Generator
 
 Preview-first LinkedIn post automation built with Node.js, Express, Gemini/OpenAI, Cloudinary, and Composio tooling. The workflow separates generation, preview, confirmation, and publishing so posts are never published without explicit user confirmation.
@@ -47,7 +53,7 @@ Repo: [GitHub-Dev-Card-Generator](https://github.com/kundurukarthiksai-creator/G
 
 - AI Dev Assistant: technically strong but currently mostly upstream fork history; needs real contributions or careful open-source-contribution framing before promotion.
 - ASU Sol / HPC project: target project direction is AI systems or scalable data/ML work using ASU Research Computing resources.
-- Google-target portfolio project: production-quality AI developer tool with tests, deployment, architecture docs, and measurable outcomes.
+- Agent Reliability and Tool-Use Eval Lab: expand the task suite, add optional LLM planner comparison, and add a compact dashboard for saved runs.
 
 ## Tech Stack
 
@@ -66,6 +72,7 @@ Databases: PostgreSQL, Supabase, SQL Server, local persistence
 - Adding screenshots, smoke tests, and architecture notes to portfolio repos
 - Preparing for spring internship applications in SDE, backend, cloud, and AI developer tooling roles
 - Building a stronger project trail around agentic AI, developer tools, and production backend systems
+- Expanding the agent evaluation lab with harder fixtures, failure categories, and optional LLM comparisons
 - Practicing Python DSA consistently for Google-level interview readiness
 
 ## Links
