@@ -27,6 +27,8 @@ Repo: [agent-reliability-tool-use-eval-lab](https://github.com/kundurukarthiksai
 
 Demo: [Agent Reliability Eval Lab Demo](https://kundurukarthiksai-creator.github.io/agent-reliability-tool-use-eval-lab/)
 
+Proof path: [no-key reviewer quick start](https://github.com/kundurukarthiksai-creator/agent-reliability-tool-use-eval-lab/blob/master/quick_start/README.md)
+
 ### GitHub Portfolio Proof Auditor
 
 Python CLI that audits public GitHub repos for recruiter-facing proof quality. It checks README proof signals, repo metadata, GitHub Actions status, homepage health, optional README link health, and conservative public-wording rules, then writes Markdown and JSON reports. Current proof includes config-driven repo lists, unit tests, GitHub Actions CI, and clean audit reports across my main public portfolio repos.
