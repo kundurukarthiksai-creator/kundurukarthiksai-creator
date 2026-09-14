@@ -37,9 +37,15 @@ Solidity and Ethereum-based coursework project for supply-chain provenance, usin
 
 Repo: [cse540-smart-contract-project](https://github.com/kundurukarthiksai-creator/cse540-smart-contract-project)
 
+### GitHub Dev Card Generator
+
+FastAPI and Gemini-powered developer card generator that turns public GitHub profile data into shareable portfolio cards. The cleaned official repo now supports backend startup without a Gemini key, deterministic fallback analysis, generated-card ignore rules, and a GitHub Actions smoke test.
+
+Repo: [GitHub-Dev-Card-Generator](https://github.com/kundurukarthiksai-creator/GitHub-Dev-Card-Generator)
+
 ## Projects Being Polished Next
 
-- GitHub Dev Card Generator: FastAPI, GitHub REST API, Gemini analysis, Docker, and browser export. This should be cleaned before becoming a primary profile link.
+- AI Dev Assistant: technically strong but currently mostly upstream fork history; needs real contributions or careful open-source-contribution framing before promotion.
 - ASU Sol / HPC project: target project direction is AI systems or scalable data/ML work using ASU Research Computing resources.
 - Google-target portfolio project: production-quality AI developer tool with tests, deployment, architecture docs, and measurable outcomes.
 
